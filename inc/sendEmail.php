@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Email address to send to
-$siteOwnersEmail = 'muazra@gmail.com';
+$siteOwnersEmail = 'muaz@muazrahman.com';
 
 
 if($_POST) {
