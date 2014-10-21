@@ -202,9 +202,11 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .profile-pic {
    position: relative;
-   width: 150px;
-   height: 150px;
-   border-radius: 100%;
+   width: 140px;
+   height: 140px;
+   border-radius: 50%;
+   border: 3px solid #000;
+   box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.3);;
 }
 #about .contact-details { width: 41.66667%; }
 #about .download {
